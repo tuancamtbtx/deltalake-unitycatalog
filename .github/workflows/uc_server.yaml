@@ -1,0 +1,5 @@
+name: 'datacatalog_server_build_and_push_ci'
+on:
+  push:
+    branches:
+      - 'main'
